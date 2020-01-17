@@ -1,3 +1,5 @@
 import UIKit
 
-var name: Str = "Bree Young"
+var name: String = "Bree Young"
+
+var hobbies: [String] = ["Reading, Writing, Coding"]
